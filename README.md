@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunChero [Adil Ha]
 - 👀 I’m interested in dev/sec and compliance work
-- 🌱 I’m currently learning golang ans web assemblies and libp2p
+- 🌱 I’m currently learning golang, web assemblies and libp2p
 - 💞️ I’m looking to collaborate on anything 
 - 📫 feel free to drop a line
 
